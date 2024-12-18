@@ -8,6 +8,7 @@ This project uses **DistilBERT**, a lightweight version of the popular **BERT** 
 - **Minimal Data**: Fine-tuned with a small dataset, leveraging the power of transfer learning.
 - **Fast Inference**: Thanks to the lightweight DistilBERT architecture.
 
+## Google Colab Link: [Active/Passive Sentence Classifier](https://colab.research.google.com/drive/1VczTW143oaEsnYjbIs5iFnl_sEx1rnqT?usp=sharing) 
 ## Requirements
 
 ### Libraries
